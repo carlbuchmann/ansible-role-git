@@ -1,2 +1,1 @@
-# ansible-role-git
-Ansible Role: Git
+# Ansible Role: Git
