@@ -1,3 +1,7 @@
+---
+
+workspace: /root
+
 # Git Version
 git_install_from_source: true
 git_install_path: "/usr"
